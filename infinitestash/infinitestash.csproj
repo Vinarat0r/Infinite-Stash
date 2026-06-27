@@ -8,19 +8,19 @@
 
   <ItemGroup>
     <Reference Include="0Harmony">
-      <HintPath>..\..\..\..\..\..\Games\EscapeFromTarkov - SteamGG.NET\EscapeFromTarkov - SteamGG.NET\EscapeFromTarkov\BepInEx\core\0Harmony.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\EscapeFromTarkov\BepInEx\core\0Harmony.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp">
-      <HintPath>..\..\..\..\..\..\Games\EscapeFromTarkov - SteamGG.NET\EscapeFromTarkov - SteamGG.NET\EscapeFromTarkov\EscapeFromTarkov_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\EscapeFromTarkov\EscapeFromTarkov_Data\Managed\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="BepInEx">
-      <HintPath>..\..\..\..\..\..\Games\EscapeFromTarkov - SteamGG.NET\EscapeFromTarkov - SteamGG.NET\EscapeFromTarkov\BepInEx\core\BepInEx.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\EscapeFromTarkov\BepInEx\core\BepInEx.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>..\..\..\..\..\..\Games\EscapeFromTarkov - SteamGG.NET\EscapeFromTarkov - SteamGG.NET\EscapeFromTarkov\EscapeFromTarkov_Data\Managed\UnityEngine.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\EscapeFromTarkov\EscapeFromTarkov_Data\Managed\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
-      <HintPath>..\..\..\..\..\..\Games\EscapeFromTarkov - SteamGG.NET\EscapeFromTarkov - SteamGG.NET\EscapeFromTarkov\EscapeFromTarkov_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\EscapeFromTarkov\EscapeFromTarkov_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
   </ItemGroup>
 
